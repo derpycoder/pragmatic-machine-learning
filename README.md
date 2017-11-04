@@ -5,14 +5,14 @@
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/mit-license.php)
 
 ### Objectives
-- [x] Python
-- [x] Pandas
-- [x] Numpy
-- [x] Matplotlib
-- [x] Seaborn
-- [ ] Scikit Learn
-- [ ] Keras(Theano Backend)
-- [ ] TFLearn(Tensorflow Backend)
+> 1. Python
+> 1. Pandas
+> 1. Numpy
+> 1. Matplotlib
+> 1. Seaborn
+> 1. Scikit Learn
+> 1. Keras(Theano Backend)
+> 1. TFLearn(Tensorflow Backend)
 
 ### Python
 1. [Basics](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Python/Basics.ipynb)
