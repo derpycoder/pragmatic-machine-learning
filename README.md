@@ -15,15 +15,15 @@
 1. TFLearn (Tensorflow Backend)
 
 ### Python
-1. [Basics](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Python/Basics.ipynb)
+1. [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/python/basics.ipynb)
 
 ### Numpy
-1. [Basics](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Numpy/Basics.ipynb)
-1. [Metrics](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Numpy/Metrics.ipynb)
+1. [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/numpy/basics.ipynb)
+1. [Metrics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/numpy/metrics.ipynb)
 
 ### Visualization
-1. [Matplotlib](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Visualization/Matplotlib.ipynb)
-1. [Seaborn](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Visualization/Seaborn.ipynb)
+1. [Matplotlib](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/matplotlib.ipynb)
+1. [Seaborn](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/seaborn.ipynb)
 
 ### Pandas
-1. [Reading Data](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Pandas/Reading%20Data.ipynb)
+1. [Reading Data](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/reading-data.ipynb)
