@@ -24,3 +24,6 @@
 ### Visualization
 1. [Matplotlib](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Visualization/Matplotlib.ipynb)
 1. [Seaborn](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Visualization/Seaborn.ipynb)
+
+### Pandas
+1. [Reading Data](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Pandas/Reading%20Data.ipynb)
