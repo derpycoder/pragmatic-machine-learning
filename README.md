@@ -15,4 +15,12 @@
 - [ ] TFLearn(Tensorflow Backend)
 
 ### Python
-- [Python Fundamentals](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-ml/blob/master/Python/Python%20Fundamentals.ipynb)
+1. [Basics](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Python/Basics.ipynb)
+
+### Numpy
+1. [Basics](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Numpy/Basics.ipynb)
+1. [Metrics](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Numpy/Metrics.ipynb)
+
+### Visualization
+1. [Matplotlib](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Visualization/Matplotlib.ipynb)
+1. [Seaborn](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Visualization/Seaborn.ipynb)
