@@ -11,8 +11,8 @@
 1. Matplotlib
 1. Seaborn
 1. Scikit Learn
-1. Keras(Theano Backend)
-1. TFLearn(Tensorflow Backend)
+1. Keras (Theano Backend)
+1. TFLearn (Tensorflow Backend)
 
 ### Python
 1. [Basics](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-machine-learning/blob/master/Python/Basics.ipynb)
