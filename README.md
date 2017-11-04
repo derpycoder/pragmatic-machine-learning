@@ -13,3 +13,6 @@
 - [ ] Scikit Learn
 - [ ] Keras(Theano Backend)
 - [ ] TFLearn(Tensorflow Backend)
+
+### Python
+- [Python Fundamentals](https://nbviewer.jupyter.org/github/Abhijit-Kar/pragmatic-ml/blob/master/Python/Python%20Fundamentals.ipynb)
