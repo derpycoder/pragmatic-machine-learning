@@ -25,6 +25,11 @@
   - [Matplotlib](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/matplotlib.ipynb)
   - [Seaborn](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/seaborn.ipynb)
 - Pandas
+  - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/basics.ipynb)
   - [Reading Data](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/reading-data.ipynb)
   - [Reading Meta Data](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/reading-metadata.ipynb)
   - [Handling Missing Data](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/handling-missing-data.ipynb)
+  - [Boolean Indexing](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/boolean-indexing.ipynb)
+  - [Group By](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/group-by.ipynb)
+  - [Sorting](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/sorting.ipynb)
+  - [Loc & ILoc](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/loc-iloc.ipynb)
