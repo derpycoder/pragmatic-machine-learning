@@ -14,16 +14,17 @@
 1. Keras (Theano Backend)
 1. TFLearn (Tensorflow Backend)
 
-### Python
-1. [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/python/basics.ipynb)
+### Cheatsheets
 
-### Numpy
-1. [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/numpy/basics.ipynb)
-1. [Metrics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/numpy/metrics.ipynb)
-
-### Visualization
-1. [Matplotlib](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/matplotlib.ipynb)
-1. [Seaborn](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/seaborn.ipynb)
-
-### Pandas
-1. [Reading Data](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/reading-data.ipynb)
+- Python
+  - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/python/basics.ipynb)
+- Numpy
+  - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/numpy/basics.ipynb)
+  - [Metrics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/numpy/metrics.ipynb)
+- Visualization
+  - [Matplotlib](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/matplotlib.ipynb)
+  - [Seaborn](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/seaborn.ipynb)
+- Pandas
+  - [Reading Data](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/reading-data.ipynb)
+  - [Reading Meta Data](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/reading-metadata.ipynb)
+  - [Handling Missing Data](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/handling-missing-data.ipynb)
