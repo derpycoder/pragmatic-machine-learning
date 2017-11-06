@@ -46,3 +46,5 @@
   - [String Methods](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/string-methods.ipynb)
   - [Time Series](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/time-series.ipynb)
   - [Train Test Split](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/train-test-split.ipynb)
+- Scikit Learn
+  - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/Basics.ipynb)
