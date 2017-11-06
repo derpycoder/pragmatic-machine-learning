@@ -1,7 +1,3 @@
----
-title: Pragmatic Machine Learning
----
-
 # Pragmatic Machine Learning
 > Machine Learning done in a Pragmatic way!
 
