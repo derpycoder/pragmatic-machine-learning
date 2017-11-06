@@ -1,3 +1,7 @@
+---
+title: Pragmatic Machine Learning
+---
+
 # Pragmatic Machine Learning
 > Machine Learning done in a Pragmatic way!
 
@@ -14,7 +18,7 @@
 1. Keras (Theano Backend)
 1. TFLearn (Tensorflow Backend)
 
-### Cheatsheets
+### Cheat Sheet
 
 - Python
   - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/python/basics.ipynb)
