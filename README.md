@@ -25,6 +25,11 @@
   - [Matplotlib](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/matplotlib.ipynb)
   - [Seaborn](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/seaborn.ipynb)
   - [Pandas](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/pandas.ipynb)
+- Color Palettes
+  - [Sequential](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/color-palettes/sequential.ipynb)
+  - [Qualitative](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/color-palettes/qualitative.ipynb)
+  - [Diverging](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/color-palettes/diverging.ipynb)
+  - [Miscellaneous](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/color-palettes/miscellaneous.ipynb)
 - Pandas
   - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/basics.ipynb)
   - [Reading Data](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/reading-data.ipynb)
