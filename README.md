@@ -48,3 +48,5 @@
   - [Train Test Split](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/train-test-split.ipynb)
 - Scikit Learn
   - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/basics.ipynb)
+  - [Model Evaluation](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation.ipynb)
+  - [Train Test Split](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/train-test-split.ipynb)
