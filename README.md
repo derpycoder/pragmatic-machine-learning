@@ -53,3 +53,4 @@
   - [K-Fold CV](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/k-fold-cv.ipynb)
   - [Grid Search CV](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/grid-search-cv.ipynb)
   - [Randomized Search CV](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/randomized-search-cv.ipynb)
+  - [Miscellaneous CV Uses](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/misc-cv-uses.ipynb)
