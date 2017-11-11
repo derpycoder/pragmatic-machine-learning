@@ -19,6 +19,8 @@
 
 - Python
   - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/python/basics.ipynb)
+- Web Scraping
+  - [Requests & Beautiful Soup](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/web-scraping/requests-and-beautiful-soup.ipynb)
 - Numpy
   - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/numpy/basics.ipynb)
   - [Metrics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/numpy/metrics.ipynb)
