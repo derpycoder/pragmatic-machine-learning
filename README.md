@@ -4,7 +4,7 @@
 [![Custom Badge](https://img.shields.io/badge/Author-Abhijit%20Kar-brightgreen.svg)](https://abhijit-kar.github.io/)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/mit-license.php)
 
-### [Objectives](https://nbviewer.jupyter.org/format/slides/github/abhijit-kar/pragmatic-machine-learning/blob/master/intro.ipynb#/)
+### Objectives ([Slides](https://nbviewer.jupyter.org/format/slides/github/abhijit-kar/pragmatic-machine-learning/blob/master/intro.ipynb#/))
 1. Python
 1. Pandas
 1. Numpy
