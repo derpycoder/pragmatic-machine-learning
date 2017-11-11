@@ -48,7 +48,7 @@ def show(y_test, y_pred):
     """Returns a Data Frame showcasing the confusion matrix"""
     conf_mat = metrics.confusion_matrix(y_test, y_pred)
     categories = y_test.astype('category').cat.categories
-    return pd.DataFrame(conf_mat, columns = categories, index = categories) 
+    return pd.DataFrame(conf_mat, columns = categories, index = categories)
 
 def visualize(y_test, y_pred):
     """Draws a HeatMap of the confusion matrix"""
@@ -76,7 +76,7 @@ def describe(y_test, y_pred):
     return pd.DataFrame([[func(y_test, y_pred, i) for func in func_vals] for i in range(len(categories))],
                           columns = func_keys, index = categories)
 
-if __name__ == "__main__":    
+if __name__ == "__main__":
     pima_df = pd.read_csv('../data/pima.csv', dtype = {'diabetes': 'int8'})
     feature_cols = ['num_preg', 'insulin', 'bmi', 'age']
     X = pima_df[feature_cols]
