@@ -10,22 +10,22 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 def tp(y_test, y_pred, id):
-    """Intersection of the feature's row and column"""
+    """Intersection of the class's row and column"""
     conf_mat = metrics.confusion_matrix(y_test, y_pred)
     return conf_mat[id, id]
 
 def tn(y_test, y_pred, id):
-    """Sum of all rows and columns excluding that feature's(id) row and column"""
+    """Sum of all rows and columns excluding that class's row and column"""
     conf_mat = metrics.confusion_matrix(y_test, y_pred)
     return conf_mat.sum() - conf_mat[id].sum() - conf_mat[:,id].sum() + conf_mat[id, id]
 
 def fp(y_test, y_pred, id):
-    """Sum of values in the feature's column"""
+    """Sum of values in the class's column"""
     conf_mat = metrics.confusion_matrix(y_test, y_pred)
     return conf_mat[:, id].sum() - conf_mat[id, id]
 
 def fn(y_test, y_pred, id):
-    """Sum of values in the feature's row"""
+    """Sum of values in the class's row"""
     conf_mat = metrics.confusion_matrix(y_test, y_pred)
     return conf_mat[id].sum() - conf_mat[id, id]
 
