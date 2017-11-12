@@ -59,3 +59,4 @@
   - [Miscellaneous CV Uses](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/misc-cv-uses.ipynb)
   - [Null Accuracy](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/null-accuracy.ipynb)
   - [Confusion Matrix](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/confusion-matrix.ipynb)
+  - [Classification Threshold](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/classification-threshold.ipynb)
