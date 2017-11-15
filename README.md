@@ -67,9 +67,11 @@
   - [Null Accuracy](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/null-accuracy.ipynb)
   - [Confusion Matrix](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/confusion-matrix.ipynb)
   - [Classification Threshold](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/classification-threshold.ipynb)
-  - [ROC Curve & AUC](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/roc-curve-and-auc.ipynb)
-- Natural Language Processing
-  - [Vectorization]()  
+  - [ROC Curve & AUC](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/roc-curve-and-auc.ipynb)  
+
+#### Natural Language Processing
+  - Vectorization
+    - [Count Vectorizer]()  
 
 #### Hands On
   - [Iris Dataset](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/hands-on/iris.ipynb)
