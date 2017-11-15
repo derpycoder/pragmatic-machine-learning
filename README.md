@@ -19,20 +19,25 @@
 
 #### Python
 - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/python/basics.ipynb)
+
 #### Web Scraping
 - [Requests & Beautiful Soup](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/web-scraping/requests-and-beautiful-soup.ipynb)
+
 #### Numpy
 - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/numpy/basics.ipynb)
 - [Metrics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/numpy/metrics.ipynb)
+
 #### Visualization
 - [Matplotlib](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/matplotlib.ipynb)
 - [Seaborn](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/seaborn.ipynb)
 - [Pandas](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/pandas.ipynb)
+
 #### Color Palettes
 - [Sequential](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/color-palettes/sequential.ipynb)
 - [Qualitative](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/color-palettes/qualitative.ipynb)
 - [Diverging](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/color-palettes/diverging.ipynb)
 - [Miscellaneous](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/visualization/color-palettes/miscellaneous.ipynb)
+
 #### Pandas
 - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/basics.ipynb)
 - [Reading Data](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/reading-data.ipynb)
@@ -49,6 +54,7 @@
 - [String Methods](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/string-methods.ipynb)
 - [Time Series](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/time-series.ipynb)
 - [Train Test Split](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/pandas/train-test-split.ipynb)
+
 #### Scikit Learn
 - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/basics.ipynb)
 - Model Evaluation
@@ -63,5 +69,7 @@
   - [Classification Threshold](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/classification-threshold.ipynb)
   - [ROC Curve & AUC](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/roc-curve-and-auc.ipynb)
 - Natural Language Processing
+  - [Vectorization]()  
+
 #### Hands On
   - [Iris Dataset](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/hands-on/iris.ipynb)
