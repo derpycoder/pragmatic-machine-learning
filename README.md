@@ -70,8 +70,7 @@
   - [ROC Curve & AUC](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/roc-curve-and-auc.ipynb)  
 
 #### Natural Language Processing
-  - Vectorization
-    - [Count Vectorizer]()  
+  - [Basics]()  
 
 #### Hands On
   - [Iris Dataset](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/hands-on/iris.ipynb)
