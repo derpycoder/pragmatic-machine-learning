@@ -69,6 +69,9 @@
   - [Classification Threshold](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/classification-threshold.ipynb)
   - [ROC Curve & AUC](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/roc-curve-and-auc.ipynb)  
 
+### Algorithms
+  - [K Nearest Neighbors](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/knn.ipynb)  
+
 #### Natural Language Processing
   - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/nlp/basics.ipynb)  
 
