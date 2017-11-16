@@ -70,10 +70,8 @@
   - [ROC Curve & AUC](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/roc-curve-and-auc.ipynb)  
 
 ### Algorithms
-  - [K Nearest Neighbors](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/knn.ipynb)  
+- [K Nearest Neighbors](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/knn.ipynb)
+- [Logistic Regression](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/logistic-regression.ipynb)  
 
 #### Natural Language Processing
-  - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/nlp/basics.ipynb)  
-
-#### Hands On
-  - [Iris Dataset](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/hands-on/iris.ipynb)
+- [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/nlp/basics.ipynb)
