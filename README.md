@@ -1,8 +1,8 @@
 # Pragmatic Machine Learning
 > Machine Learning done in a Pragmatic way!
 
-[![Custom Badge](https://img.shields.io/badge/Author-Abhijit%20Kar-brightgreen.svg)](https://abhijit-kar.github.io/)
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/mit-license.php)
+[![Custom Badge](https://img.shields.io/badge/Author-Abhijit%20Kar-brightgreen.svg?style=flat)](https://abhijit-kar.github.io/)
+[![MIT licensed](https://img.shields.io/badge/Licence-MIT-blue.svg?style=flat)](https://opensource.org/licenses/mit-license.php)
 [![GitHub Pages](https://img.shields.io/badge/Server-GitHub%20Pages-brightgreen.svg?style=flat)](http://www.abhijit-kar.com/pragmatic-machine-learning/)
 
 ### Objectives ([Slides](https://nbviewer.jupyter.org/format/slides/github/abhijit-kar/pragmatic-machine-learning/blob/master/intro.ipynb#/))
