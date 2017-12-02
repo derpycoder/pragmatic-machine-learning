@@ -71,7 +71,7 @@
 
 ### Algorithms
 - [K Nearest Neighbors](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/knn.ipynb)
-- [Logistic Regression](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/logistic-regression.ipynb)  
+- [Linear Models](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/linear-models.ipynb)  
 
 #### Natural Language Processing
 - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/nlp/basics.ipynb)
