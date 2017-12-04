@@ -72,6 +72,7 @@
 ### Algorithms
 - [K Nearest Neighbors](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/knn.ipynb)
 - [Linear Models](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/linear-models.ipynb)  
+- [Naive Bayes](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/naive-bayes.ipynb)
 
 #### Natural Language Processing
 - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/nlp/basics.ipynb)
