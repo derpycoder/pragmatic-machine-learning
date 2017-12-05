@@ -12,8 +12,6 @@
 1. Matplotlib
 1. Seaborn
 1. Scikit Learn
-1. Keras (Theano Backend)
-1. TFLearn (Tensorflow Backend)
 
 ### Cheat Sheet
 
