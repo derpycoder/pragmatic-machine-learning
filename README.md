@@ -65,15 +65,14 @@
   - [Null Accuracy](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/null-accuracy.ipynb)
   - [Confusion Matrix](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/confusion-matrix.ipynb)
   - [Classification Threshold](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/classification-threshold.ipynb)
-  - [ROC Curve & AUC](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/roc-curve-and-auc.ipynb)  
-
-### Algorithms
-- [K Nearest Neighbors](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/knn.ipynb)
-- [Linear Models](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/linear-models.ipynb)
-- [Naive Bayes](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/naive-bayes.ipynb)
-- [Decision Tree](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/decision-tree.ipynb)
-- [Ensemble Methods](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/ensemble-methods.ipynb)
-- [Support Vector Machine](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/svm.ipynb)  
+  - [ROC Curve & AUC](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/roc-curve-and-auc.ipynb)
+- Algorithms
+  - [K Nearest Neighbors](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/knn.ipynb)
+  - [Linear Models](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/linear-models.ipynb)
+  - [Naive Bayes](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/naive-bayes.ipynb)
+  - [Decision Tree](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/decision-tree.ipynb)
+  - [Ensemble Methods](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/ensemble-methods.ipynb)
+  - [Support Vector Machine](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/svm.ipynb)  
 
 #### Natural Language Processing
 - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/nlp/basics.ipynb)
