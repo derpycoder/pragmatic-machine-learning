@@ -72,7 +72,8 @@
 - [Linear Models](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/linear-models.ipynb)
 - [Naive Bayes](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/naive-bayes.ipynb)
 - [Decision Tree](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/decision-tree.ipynb)
-- [Ensemble Methods](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/ensemble-methods.ipynb)  
+- [Ensemble Methods](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/ensemble-methods.ipynb)
+- [Support Vector Machine](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/svm.ipynb)  
 
 #### Natural Language Processing
 - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/nlp/basics.ipynb)
