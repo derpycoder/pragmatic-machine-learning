@@ -66,9 +66,7 @@
   - [Confusion Matrix](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/confusion-matrix.ipynb)
   - [Classification Threshold](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/classification-threshold.ipynb)
   - [ROC Curve & AUC](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/roc-curve-and-auc.ipynb)
-- Uncertainty Estimates
-  - [Decision Function](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/uncertainty-estimates/decision-function.ipynb)
-  - [Predicted Probabilities](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/uncertainty-estimates/predicted-probabilities.ipynb)  
+  - [Uncertainty Estimates](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/sklearn/model-evaluation/uncertainty-estimates.ipynb)  
 
 #### Algorithms
 - Supervised
@@ -78,7 +76,7 @@
   - [Decision Tree](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/decision-tree.ipynb)
   - [Ensemble Methods](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/ensemble-methods.ipynb)
   - [Support Vector Machine](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/svm.ipynb)
-  - [Multi Layer Perceptron](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/mlp.ipynb) (Vanilla Neural Network)    
+  - [Multi Layer Perceptron](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/mlp.ipynb) (Vanilla Neural Network)  
 
 #### Natural Language Processing
 - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/nlp/basics.ipynb)
