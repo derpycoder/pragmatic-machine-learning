@@ -80,7 +80,8 @@
   - [Support Vector Machine](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/svm.ipynb) - Powerful for medium-sized datasets of features with similar meaning. Requires scaling of data, sensitive to parameters.
   - [Multi Layer Perceptron](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/mlp.ipynb) (Vanilla Neural Network) - Can build very complex models, particularly for large datasets. Sensitive to scaling of the data and to the choice of parameters. Large models need a long time to train.  
 - **Unsupervised**
-  - [Preprocessors](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/preprocessors.ipynb)  
+  - [Preprocessors](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/preprocessors.ipynb)
+  - [Principal Component Analysis](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/algorithms/pca.ipynb)  
 
 #### Natural Language Processing
 - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-machine-learning/blob/master/nlp/basics.ipynb)
