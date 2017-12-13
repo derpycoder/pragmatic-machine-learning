@@ -1,5 +1,6 @@
 # Custom Experimentation Folder
 playground/
+input/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
